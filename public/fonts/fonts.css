@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'DMSans-Regular';
+    src: url('../fonts/DMSans-Regular.eot');
+    src: url('../fonts/DMSans-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DMSans-Regular.woff2') format('woff2'),
+         url('../fonts/DMSans-Regular.woff') format('woff'),
+         url('../fonts/DMSans-Regular.ttf') format('truetype'),
+         url('../fonts/DMSans-Regular.svg#DMSans-Regular') format('svg'),
+         url('../fonts/DMSans-Regular.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'DMSans-Bold';
+    src: url('../fonts/DMSans-Bold.eot');
+    src: url('../fonts/DMSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DMSans-Bold.woff2') format('woff2'),
+         url('../fonts/DMSans-Bold.woff') format('woff'),
+         url('../fonts/DMSans-Bold.ttf') format('truetype'),
+         url('../fonts/DMSans-Bold.svg#DMSans-Bold') format('svg'),
+         url('../fonts/DMSans-Bold.otf') format('otf');
+  }
+  
+  
